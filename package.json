@@ -16,7 +16,7 @@
     "async": "*",
     "chai": "*",
     "mocha": "*",
-    "mongoose": "^4.1.12"
+    "mongoose": "^5.0.1"
   },
   "keywords": [
     "mongoose",
